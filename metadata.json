@@ -1,0 +1,6 @@
+{
+  "name": "Hod Fragonard — Site Officiel",
+  "description": "Site officiel de Hod Fragonard : Juriste, Autrice et Entrepreneure. Le droit, les idées et l'engagement au service d'une vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
